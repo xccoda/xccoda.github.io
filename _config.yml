@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "venzeru.io"
+title                    : "xccoda | Cybersecurity"
 title_separator          : "-"
-name                     : "venzeru"
+name                     : "xccoda"
 description              : "Posts about hacking, Ethical Hacker Junior, HackTheBox"
-url                      : "https://venzeru.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://xccoda.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "venzeru/venzeru.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/images/masthead.png"
+#logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "venzeru"
+  name             : "xccoda"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Posts about hacking, Ethical Hacker Junior, HackTheBox <br> No pain, No gain"
+  bio              : "Posts about hacking, Ethical Hacker Junior, HackTheBox"
   location         : "Ecuador"
   #email            : ""
   uri              :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "venzeru"
+  github           : ""
   gitlab           :
   google_plus      :
   #keybase          : ""
@@ -126,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  #twitter          : "snowscan"
+  #twitter          : "xccoda"
   vine             :
   weibo            :
   xing             :
